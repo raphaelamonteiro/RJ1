@@ -1,4 +1,4 @@
-# Exercício de Fixação - JavaScript
+# Exercício de Fixação (Estruturas de Repetição) - JavaScript
 ## Disciplina: Programação Orientada á Objetos
 III SEMESTRE - Análise e Desenvolvimento de Sistemas
 
